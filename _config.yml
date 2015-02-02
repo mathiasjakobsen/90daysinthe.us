@@ -13,11 +13,12 @@ author_image: "/assets/images/author.jpg"
 
 
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://muri.ca"
 baseurl: ""
+mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"
+
 
 social:
   - icon:	twitter
@@ -32,5 +33,3 @@ social:
     share_url:
     share_title:
     share_link:
-
-mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"
