@@ -1,0 +1,36 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink : /:title/
+
+title: "Mathias og Line"
+description: >
+   A Jekyll theme - Medium inspired
+
+name: 'Mathias Jakobsen'
+author: 'Mathias Jakobsen'
+author_image: "/assets/images/author.jpg"
+
+
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"

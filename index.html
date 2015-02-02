@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+
+<div id='map'></div>
+
+<script>
+  L.mapbox.accessToken = '{{ site.mapbox_token }}';
+  var map = L.mapbox.map('map', 'examples.h186knp8')
+    .setView([{{ site.posts.first.latitude }}, {{ site.posts.first.longitude }}], 5);
+  var postMarkers = L.mapbox.featureLayer().addTo(map);
+  var geoJson = [
+  {% for post in site.posts %}
+    {
+        type: 'Feature',
+        "geometry": { "type": "Point", "coordinates": [{{ post.longitude }}, {{ post.latitude }}]},
+        "properties": {
+            "image": "{{ post.image }}",
+            "url": "{{ post.url | prepend: site.baseurl }}",
+            "marker-color": "#ff8888",
+            "city": "{{ post.city }}",
+            "title": "{{ post.title }}",
+            "date": "{{ post.date | date: '%-d. %b' }}"
+        }
+    },
+  {% endfor %}
+  ];
+
+  postMarkers.on('layeradd', function(e) {
+      var marker = e.layer,
+          post = marker.feature.properties;
+      var popupContent =  '<div class="popup">'+
+        '<div class="img" style="background: url(' + post.image + ');"></div>' +
+        '<div class="text">'+
+            '<a href="'+post.url+'">'+
+                '<h1>'+post.title+'</h1>'+
+            '</a>'+
+            '<span class="city">'+ post.date +' i '+post.city+'</span>'+
+        '</div>';
+      marker.bindPopup(popupContent,{
+          closeButton: false,
+          minWidth: 200
+      });
+  });
+
+  postMarkers.setGeoJSON(geoJson);
+  postMarkers.on('mouseover', function(e) {
+      e.layer.openPopup();
+  });
+  map.featureLayer.on('ready', function(e) {
+    var markers = [];
+    postMarkers.eachLayer(function(marker) {
+      if(marker.feature.properties.title == "{{ site.posts.first.title }}") {
+        marker.openPopup();
+      }
+      markers.push(marker);
+    });
+    cycle(markers);
+  });
+
+  function cycle(markers) {
+      var i = 0;
+      function run() {
+          if (++i > markers.length - 1) i = 0;
+          map.setView(markers[i].getLatLng(), 5);
+          markers[i].openPopup();
+      }
+      function open() {
+        window.hest = markers[i].getPopup();
+      }
+      Mousetrap.bind('shift', function() { run(); });
+      Mousetrap.bind('enter', function() { open(); });
+  }
+</script>
