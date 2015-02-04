@@ -36,7 +36,9 @@ layout: default
             '<a href="'+post.url+'">'+
                 '<h1>'+post.title+'</h1>'+
             '</a>'+
-            '<span class="city">'+ post.date +' i '+post.city+'</span>'+
+            '<span class="city">'+
+              '<i class="fa fa-map-marker"></i> '+post.city+', den '+ post.date +
+            '</span>'+
         '</div>';
       marker.bindPopup(popupContent,{
           closeButton: false,
@@ -48,6 +50,8 @@ layout: default
   postMarkers.on('mouseover', function(e) {
       e.layer.openPopup();
   });
+
+  // Adds ability to cycle trough marker popups
   map.featureLayer.on('ready', function(e) {
     var markers = [];
     postMarkers.eachLayer(function(marker) {
