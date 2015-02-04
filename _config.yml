@@ -4,15 +4,14 @@ highlighter: pygments
 permalink : /:title/
 
 title: "Mathias og Line"
+name: 'Mathias Lynnerup Jakobsen'
 description: >
    A Jekyll theme - Medium inspired
 
-name: 'Mathias Jakobsen'
-author: 'Mathias Jakobsen'
-author_image: "/assets/images/author.jpg"
 
 
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/map.png"
+logo: "/assets/images/logo.png"
 paginate:	5
 
 url: "http://muri.ca"
