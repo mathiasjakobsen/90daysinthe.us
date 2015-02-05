@@ -2,7 +2,6 @@
 ---
 
 @import 'syntax-highlighting'
-@import 'map'
 
 @import 'bourbon/bourbon'
 
@@ -13,6 +12,9 @@ $rs: 16px
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+
+
+@import 'map'
 
 
 @mixin respond-to($breakpoint)
@@ -42,11 +44,10 @@ body
 
 .logo-readium
   position: fixed
-  left: 10px
+  right: 10px
   top: 10px
-  width: $rs*3
-  height: $rs*3
-  background-color: #000
+  width: $rs*4
+  height: $rs*4
   overflow: hidden
   z-index: 99
   .logo
@@ -54,8 +55,8 @@ body
     position: absolute
     top: $rs/2
     left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    width: $rs*3
+    height: $rs*3
     background-size: cover
     background-repeat: no-repeat
 
@@ -200,6 +201,26 @@ body
     &:hover
       color: #333
 
+.back-to-map
+  position: absolute
+  top: 10px
+  left: 30px
+  line-height: 44px
+  display: inline-block
+  white-space: nowrap
+  color: rgba(0,0,0,0.25)
+  font-size: 14px
+  letter-spacing: -0.02em
+  font-weight: 400
+  font-style: normal
+  font-family: $font-sans
+  z-index: 999
+  a
+    text-decoration: none !important
+    color: rgba(0,0,0,0.25) !important
+  a:hover
+    border-bottom: 1px dotted rgba(0,0,0,0.25)
+
 .post-reading
   position: absolute
   top: 10px
@@ -254,8 +275,8 @@ body
     .post-meta
       position: absolute
       bottom: $rs*5
-      left: 30%
-      right: 30%
+      left: 25%
+      right: 25%
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
@@ -581,26 +602,3 @@ body
       border-radius: 999em
       line-height: 44px
       padding: 0 18px
-
-#disqus_thread
-  margin-top: 50px
-.post-tag-articleimage
-  display: none
-
-pre,
-code
-  font-size: 15px
-  border: 1px solid #e8e8e8
-  border-radius: 3px
-  background-color: #eef
-
-code
-  padding: 1px 5px
-
-pre
-  padding: 8px 12px
-  overflow-x: scroll
-  > code
-    border: 0
-    padding-right: 0
-    padding-left: 0
