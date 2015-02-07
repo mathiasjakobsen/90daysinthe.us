@@ -7,21 +7,45 @@
 <script type="text/javascript" src="{{ "/assets/js/min/lightbox.min.js" | prepend: site.baseurl  }}"></script>
 
 <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/jquery.tooltipster.min.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/readingTime.min.js" | prepend: site.baseurl  }}"></script>
 <script>
 (function ($) {
   "use strict";
   $(document).ready(function(){
 
+    $('.tooltip').tooltipster({
+      theme: 'tooltipster-shadow'
+    });
 
-    Mousetrap.bind('h', function() { window.toggle(); });
-    window.toggle = function() {
+    var headerHeight = $('header').height();
+    $(window).on('resize', function(){
+      headerHeight = $('header').height();
+    });
+
+    Mousetrap.bind('esc', function() {
+      if(document.title != "{{ site.title }}") {
+        window.open("/","_self");
+      } else {
+        toggleHeader();
+      };
+    });
+    $('.hamburger').click(function() { toggleHeader(); });
+
+    function toggleHeader() {
       if($('#map').css('top') == '0px') {
-        $('#map').animate({"top":"400px"}, 1200);
+        $('#map').animate({"top":headerHeight+"px"}, 1200);
       } else {
         $('#map').animate({"top":"0px"}, 1200);
       };
     };
+
+
+    var yetVisited = sessionStorage ? sessionStorage['visited'] : $.cookie('visited');
+    if (!yetVisited) {
+      setTimeout(function(){ toggleHeader(); }, 2000);
+      sessionStorage ? sessionStorage['visited'] = 'yes' : $.cookie('visited', 'yes');
+    }
 
     var $window = $(window),
     $image = $('.post-image-image, .teaserimage-image');
