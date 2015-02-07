@@ -13,6 +13,16 @@
   "use strict";
   $(document).ready(function(){
 
+
+    Mousetrap.bind('h', function() { window.toggle(); });
+    window.toggle = function() {
+      if($('#map').css('top') == '0px') {
+        $('#map').animate({"top":"400px"}, 1200);
+      } else {
+        $('#map').animate({"top":"0px"}, 1200);
+      };
+    };
+
     var $window = $(window),
     $image = $('.post-image-image, .teaserimage-image');
     $window.on('scroll', function() {
