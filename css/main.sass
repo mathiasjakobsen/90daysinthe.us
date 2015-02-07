@@ -11,3 +11,23 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 @import 'syntax-highlighting'
 @import 'map'
 @import 'lightbox'
+
+.logo-readium
+  right: 0
+  left: 10px
+  width: $rs*4
+  height: $rs*4
+
+.post-reading
+  color: rgb(255, 255, 255)
+  text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
+
+.back-to-map
+  @extend .post-reading
+  right: 0
+  left: 30px
+  a
+    color: rgb(255, 255, 255) !important
+    text-decoration: none !important
+  a:hover
+    color: rgba(255, 255, 255, 0.7)
