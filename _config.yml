@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink : /:title/
 
-title: "90 dage i USA"
+title: "90 days in the US"
 name: 'Mathias Lynnerup Jakobsen'
 description: >
   What's up with it, vanilla face? Me and my homie Azamat just parked our slab outside. We're looking for somewhere to post up our black asses for the night. So, uh, bang bang, skeet skeet, nigga. Just a couple of pimps, no hoes.
@@ -13,21 +13,6 @@ cover: "/assets/images/map.png"
 logo: "/assets/images/logo.png"
 paginate:	5
 
-url: "http://muri.ca"
+url: "http://90daysinthe.us/"
 baseurl: ""
 mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"
-
-
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
