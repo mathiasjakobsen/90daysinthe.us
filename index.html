@@ -10,8 +10,6 @@ layout: default
   var map = L.mapbox.map('map', 'examples.h186knp8', { zoomControl:false })
     .setView([{{ site.posts.first.latitude }}, {{ site.posts.first.longitude }}], 5);
   var postMarkers = L.mapbox.featureLayer().addTo(map);
-  var miles = 0 {% for post in site.posts %} + {{post.miles}} {% endfor %};
-  var saldo = 0 {% for post in site.posts %} + {{post.saldo}} {% endfor %};
   var geoJson = [
   {% for post in site.posts %}
     {
