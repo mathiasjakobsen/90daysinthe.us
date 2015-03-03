@@ -29,9 +29,7 @@
     });
 
     Mousetrap.bind('esc', function() {
-      if(document.title != "{{ site.title }}") {
-        window.open("/","_self");
-      } else {
+      if(document.title == "{{ site.title }}") {
         toggleHeader();
       };
     });
