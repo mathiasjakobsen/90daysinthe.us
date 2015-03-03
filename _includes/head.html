@@ -9,7 +9,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.url }}{% else %}{{ site.url }}{% endif %}">
-    <meta property="og:description" content="{{ page.content | strip_html | truncatewords:75}}">
+    <meta property="og:description" content='{{ page.content | strip_html | truncatewords:75}}'>
   <meta property="og:image" content="{{ page.image | prepend: site.url }}">
   <meta property="og:type" content="article">
 
