@@ -14,6 +14,6 @@ cover: "/assets/images/map.png"
 logo: "/assets/images/logo.png"
 paginate:	5
 
-url: "http://90daysinthe.us/"
+url: "http://90daysinthe.us"
 baseurl: ""
 mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"
