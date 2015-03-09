@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Our New Home"
+city:   "Westchester Airport"
+date:   2015-03-04 11:30:00
+latitude: 40.99549
+longitude: -73.85569
+image: '/assets/images/coming-to-america/IMG_0337.JPG'
+author: 'Line Dahlgreen'
+miles: 0
+states: 1
+
+gallery: "Vores nye hjem"
+images:
+  - name: IMG_0242.JPG
+    text: "Sne i New York"
+  - name: IMG_0248.JPG
+    text: "Aftens menu"
+  - name: IMG_0251.JPG
+    text: "Lækker 'american breakfast'"
+  - name: IMG_0272.JPG
+    text: "Lækker vejr i de sne-fyldte gader"
+  - name: IMG_0297.JPG
+    text: "M&M's i 3 etager!"
+  - name: IMG_0330.JPG
+    text: "En noget mere glourøs McDonald's end vi kender fra Danmark"
+  - name: IMG_0361.JPG
+    text: "Vi sneg os med på et billboard, på Times Square"
+  - name: IMG_0362.JPG
+    text: "Obligatorisk Times Square selfie"
+  - name: IMG_0397.JPG
+    text: "Hard Rock Café"
+  - name: IMG_0414.JPG
+    text: "New York Stand Up"
+---
+
+

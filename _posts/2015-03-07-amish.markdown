@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Our New Home"
+city:   "Westchester Airport"
+date:   2015-03-04 11:30:00
+latitude: 40.99549
+longitude: -73.85569
+image: '/assets/images/coming-to-america/IMG_0337.JPG'
+author: 'Line Dahlgreen'
+miles: 0
+states: 1
+
+gallery: "Vores nye hjem"
+images:
+  - name: IMG_0731.JPG
+    text: "Velkommen til Amish-land"
+  - name: IMG_0742.JPG
+    text: "Amish Farm"
+  - name: IMG_0751.JPG
+    text: "Amish skole"
+  - name: IMG_0765.JPG
+    text: "En anden Amish farm"
+  - name: IMG_0783.JPG
+    text: "Trainwagon hotel"
+  - name: IMG_0786.JPG
+    text: "Trainwagon hotel"
+  - name: IMG_0789.JPG
+    text: "Trainwagon hotel"
+  - name: IMG_0813.JPG
+    text: "Amish hest, vi måtte fodre"
+  - name: IMG_0822.JPG
+    text: "Amish svar på en 'traktor'"
+  - name: IMG_0827.JPG
+    text: "Indenfor i Amish skole"
+  - name: IMG_0831.JPG
+    text: "Mathias i en Carriage"
+  - name: IMG_0841.JPG
+    text: "Amish carriage, dem var der massere af på vejene"
+  - name: IMG_0854.JPG
+    text: "HEAVEN AKA. POPCORNLAND"
+---
+
+
+Efter en nat på et 'rigtig Amerikansk motel' i en lille by uden for Lancaster, stod dagen på Amish besøg. MEN først.. for ikke at glemme dagens vigtigste måltid, stod den på morgenmad!! Den blev i dag nydt på Waffle House og bestod af: 2 æg, bacon, hash browns, french toast, vaffel, juce og en kaffe. TAK for den da, vi blev mætte.. Puhaaa, vi var glade for at vi var i bil, da vi næste ikke kunne gå der fra. 
+
+
+![Awsome morgenmad](/assets/images/amish/IMG_0729.JPG)
+
+
+Men vi fik slæbt os selv der fra, og turen gik videre til AMISH LAND. 
+
+
+
+
+
+
+
+
