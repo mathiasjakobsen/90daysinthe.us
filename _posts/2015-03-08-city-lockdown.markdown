@@ -2,7 +2,7 @@
 layout: post
 title:  "City Lockdown"
 city:   "Philadelphia"
-date:   2015-03-08 20:30:00
+date:   2015-03-06 20:30:00
 latitude: 39.96426
 longitude: -75.16291
 image: '/assets/images/city-lockdown/IMG_0613.JPG'
