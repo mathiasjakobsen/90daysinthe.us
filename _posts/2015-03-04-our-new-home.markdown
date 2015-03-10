@@ -27,7 +27,7 @@ images:
 ---
 I dag skulle vi op og hente vores bil, i Westchester Airport. En tur der skulle vise sig at være lidt mere besværlig end som så. Det krævede nogle gå ture, 2 forskellige taxa'er og en tog tur.. men så blev vi også kørt lige til døren, af en KÆMPE F*****G STOR SORT Chevrolet Surburban.
 
-![STOR LÆKKER BIL](/assets/images/our-new-home/IMG_0900.JPG)
+![STOR LÆKKER BIL](/assets/images/our-new-home/IMG_0904.JPG)
 
 Forventningerne, til den bil vi havde lejet, var ikke store da beskrivelsen lød på en 'middle class Toyota Corolla'..(Jeg havde tænkt en gammel rust spand)
 MEN her viste Amerika sig fra sin gode side, og overraskede os begge med (syntes vi selv) en ret så lækker og dejlig bil. Se selv de overskønne, fantastiske, smukke billeder af vores Chrysler 200 - 2015 modellen.
