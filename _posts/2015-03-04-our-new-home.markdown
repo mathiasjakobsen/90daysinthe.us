@@ -5,7 +5,7 @@ city:   "Westchester Airport"
 date:   2015-03-04 11:30:00
 latitude: 40.99549
 longitude: -73.85569
-image: '/assets/images/our-new-home/IMG_0900.jpg'
+image: '/assets/images/our-new-home/IMG_0900.JPG'
 author: 'Line Dahlgreen'
 miles: 0
 states: 1
