@@ -25,6 +25,18 @@ layout: default
         }
     },
   {% endfor %}
+  {% for pin in site.pins %}
+    {
+        type: 'Feature',
+        "geometry": { "type": "Point", "coordinates": [{{ pin.longitude }}, {{ pin.latitude }}]},
+        "properties": {
+            "marker-color": "#ff8888",
+            "city": "{{ pin.city }}",
+            "title": "{{ pin.title }}",
+            "date": "{{ pin.date }}"
+        }
+    },
+  {% endfor %}
   ];
 
   postMarkers.on('layeradd', function(e) {

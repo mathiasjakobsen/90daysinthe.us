@@ -17,3 +17,13 @@ paginate:	5
 url: "http://90daysinthe.us"
 baseurl: ""
 mapbox_token: "pk.eyJ1IjoibWF0aGlhc2pha29ic2VuIiwiYSI6InV6eFNWcjAifQ.FxCifm3JCCSz9WhKHUlv4g"
+
+pins:
+  # - city: Cocoa Beach
+  #   date: "6. Feb"
+  #   latitude: 28.3200067
+  #   longitude: -80.6075513
+  # - city: Cocoa Beach
+  #   date: "6. Feb"
+  #   latitude: 28.3200067
+  #   longitude: -80.6075513

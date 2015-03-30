@@ -1,0 +1,61 @@
+---
+layout: post
+title:  ”3, 2, 1 - Lift off”
+city:   "Orlando"
+date:   2015-03-25 14:36:00
+latitude: 28.5383355
+longitude: -81.3792365
+image: '/assets/images/3-2-1-lift-off/DSC01517.JPG'
+author: 'Mathias Jakobsen'
+miles: 2150
+states: 9
+
+gallery: "Kenndedy Space Center og KOA camping"
+images:
+  - name: DSC01462.JPG
+    text: "Originalt Apollo 8 kontrolrum"
+  - name: DSC01490.JPG
+    text: "Udsigten fra launch-udkigsposten"
+  - name: DSC01465.JPG
+    text: "Saturn V raket"
+  - name: DSC01523.JPG
+    text: "Raketten lavede et fint spor på himmelen"
+  - name: DSC01537.JPG
+    text: "Nija-astronaut-Line"
+  - name: DSC01541.JPG
+    text: "Glad Line"
+  - name: DSC01549.JPG
+    text: "Wuhu! En dansh avis om månelandingen"
+  - name: DSC01553.JPG
+    text: "Saturn V raket"
+  - name: DSC01564.JPG
+    text: "Et lille stykke af månen"
+  - name: DSC01601.JPG
+    text: "Atlantis Space Shuttle"
+  - name: DSC01608.JPG
+    text: "Astronaut Line"
+  - name: DSC01628.JPG
+    text: "NASA Kennedy Space Center"
+  - name: DSC01654.JPG
+    text: "Billig men velfungerende løsning på et utæt telt"
+  - name: DSC01674.JPG
+    text: "Der var fyldt med sådan nogle små fætre på camping-pladsen"
+
+---
+
+Efter vores tur til Florida's Keys tog vi den 6 timers lange tur tilbage til Orlando, hvor vi havde kørt nogle dage før. Da vi kørte ned til Florida fra Washington fandt vi nemlig ud af, at vi kunne komme til at se en raketopsendelse. Der var bare en uge til, så vi besluttede at komme tilbage efter en uge.
+
+Efter vores køretur og en overnating på "Alladins Motel" kørte vi ud til det verdenskendte NASA Kennedy Space Center. Der er etableret et stort visitor-center, men KSC er som primært et højst aktivt NASA center. Her opsendes alle NASA's rum-raketter og det var her at måne-raketterne i Apollo programmet også blev opsendt. I fremtiden vil nye raketter også blive opsendt her, og bl.a. SpaceX sender også raketter op. KSC vil højst sandsynlig også være stedet, hvor man sender den første raket afsted mod Mars.
+
+Foruden NASA så ligger der, inden for samme afspærret område, en US Air Force base, og det var faktisk en raketopsendelse fra dem vi så. Mere specifikt var det en GPS raket, som skal gøre det internationale GPS system bedre. Da vi var kommet ind i KSC blev vi kørt med en tour bus ind i det afspærret område, ind til det separate Apollo/Saturn Center, som ligger ca. 8 miles fra hvor raketten blev opsendt. Herfra kunne vi sidde på tilskuerpladser og se raketopsendelsen. PÅ vej der ud så vi den orignale Apollo lauch pad, bygningen hvor raketterne bliver samlet, og det kæmpe-mæssige tranport fartøj de bruger til at flytte raketterne.
+
+Efter ca. 2 timers venten på tilskuerpladserne (det var først-til-mølle princippet) så gik countdown igang. Der var en opsendles-vindue på 18 min. fra 14:36 til 14:54 - hvis vejret ikke lige var perfekt eller der var en enkelt lille fejl, så ville opsendelsen blive udsat. Heldigvis var alt som det skulle være, præcis 14:35:57 hørte vi: "3, 2, 1 - and we have lift-off". Vi kunne ikke se raketten inden den lettede, men efter 3-4 sekunder kom den frem på himmelen, og så gik der ca. 1,5 min. hvor vi kunne se det stige til vejrs. En rigtig fed oplevelse, som vi aldrig glemmer!
+
+![Lift off!](/assets/images/3-2-1-lift-off/lifoff.png)
+
+Efter opsendelsen havde vi et par timer på KSC - vi nåede at prøve en Space Shuttle simulator, og så så vi den første Space Shuttle som blev sendt ud i rummet, og landede på jorden igen. Da dagen var ved, at være slue manglende vi stadig at finde et sted at sove. Kort fortalt så ringede vi nok til 20 forskellige moteller - alt udsolgt pga. spring break. Vi endte med at køre mod en KOA campingplads og satse på, at de kunne finde plads til os selvom kontoret havde lukket. Vi fik en plads for natten, men kørte morgen efter videre til en anden KOA plads hvor vi ville blive et par nætter.
+
+En af dagene valgte vi at bruge i SeaWorld. Det kostede små 1300 kroner for os begge (vi snød os endda til den pris, da det normalt er $20 dyere hvis man ikke er amerikaner) og vi var begge enige om, at det ikke helt var pengene værd. Det var en super fin dag selvom det regnede - vi så et fantatisk godt show med spækhuggere og delfiner, rørte ved rokker og jeg fik Line med op i en rutjsebane - men vi havde regnet med at det var noget større og at der ville være mere at se.
+
+
+{% include gallery.html %}

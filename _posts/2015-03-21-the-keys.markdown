@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Keys of Florida"
+city:   "Sugarloaf Key"
+date:   2015-03-21 12:00:00
+latitude: 24.6245746
+longitude: -81.5431872
+image: '/assets/images/the-keys/DSC01122.JPG'
+author: 'Mathias Jakobsen'
+miles: 250
+states: 3
+---
+
+Skribenten er igang :)
