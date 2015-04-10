@@ -96,7 +96,7 @@ images:
 
 Vi har nu tilbragt 5 fantastiske dage i Washington D.C. Her boede vi hos Jannie, et sted vi havde fundet gennem Airbnb, rigtig hyggeligt. Hæng på, da der er massere at fortælle og oplæget her bliver en smuule langt (især hvis det var Mathias der skrev..)
 
-###1 Dag:
+###1. Dag
 
 Den første dag startede med, at vi tildligt om morgenen kørte fra Baltimore mod D.C. En lille køretur på lidt under 2 timer. Pentagon var det første stop i Washington. Vi havde hjemmefra forudbestilt billetter, da besøget krævede en 3 måneders forud-godkendt sikkerhedsgodkendelse. Først skulle vi dog lige finde den 'rigtige' indgang, da vi gerne vil undgå at blive skudt ned af en af de mange vagter der casually bar' rundt på en ordentlig krabat af et våben over hver skulder og diverse andre 'redskaber' i bæltet. Vi fandt dog til sidst indgangen og fik efter et grundigt sikkerheds check lov til at komme ind. For alt det ståhej var turen dog lidt slatten. Det var rigtig spændende, at få lov til at komme ind i pentagon og opleve den indefra, bl.a. at se det sted hvor flight 77 ramte under 9/11, men ellers bestod største delen af turen af rulletrapper og uendelige lange gange... Og en lyserød flamingo.
 
@@ -108,7 +108,7 @@ Vi besluttede os for at droppe jagten og forkæle os selv resten af dagen, med l
 
 !['Line's homemade special Mathias-Sandwich](/assets/images/capital-city/IMG_1043.JPG)
 
-###2 Dag:
+###2. Dag
 
 Vi skulle tidligt op (kl 7:30), da vi havde bestilt billetter til U.S. Capitol, og som alle andre steder i USA (især Washington) skal man være fremmødt 45-60 minutter før den egentlige rundtur, da man jo lige endnu en gang til skal i gennem sindsyg sikkerheds kontrol, med fede amerikanere og deres kæmpe pistoler. U.S. Capitiol rundturen var dog noget bedre end gårdagens tur. Turen startede i en kæmpe biograf-lignende sal, og allerede her blev vi mødt med hvad vi alle forbinder med USA. Først, i sæddet ved siden af mig, satte der sig en mand, der var så stor at han ikke kunne være i sædet (vel og mærket et sæd der var så stor at jeg kunne side i skrædderstilling) her efter startede der en 10 minuters lang film ("salgstale") om The Big USA. Verdens bedste land, hvor alle står sammen, lever livet; trygt, sikker og i rigdom. Ingen i USA lider eller er på anden måde i nød. Dette land er svaret på den 7. himmel! (får vi fortalt). Efter den meget lærerige film, går turen videre rundt i The Capitol, hvor vi ender under den store kupel, der inden fra er lige så fantastisk som set ude fra, selvom den pt. er ved at blive restureret. Alt inde i bygningen var ekstremt flot og virkelig godt håndværk. Over alt var væggene prydet med figurer, billeder og over alt stod kæmpe statuer, der hver især representer vigtige og betydningsfulde personer, fra de forskellige stater i USA. 
 
@@ -127,7 +127,7 @@ Efter to dejlige rundture var vi dog lidt ør i hovederne af alt den information
 En lille detalje, i og med at vi skulle være i US Capitol tidligt om morgenen og var kommet lidt for sent ud af døren, havde vi ikke nået at spise morgenemad og klokken var nu ved at være 3.. Vi havde det ikke fantastisk.. Faktisk kunne vi overhovedet ikke mere og besluttede os derfor at tage hjem og ha' rigtig ondt af os selv! vi endte med at bestille KÆMPE pizza fra Domino's.. Muuums.. Også bare på hovedet i seng!
 
 
-###3 Dag:
+###3. Dag
 
 Da vi vågnede havde vi det heldigvis bedre og startede dagen med en ABNORMT stor morgenmad, så vi måtte trille afsted der fra. Dagen i dag stodpå The White House og 'Monument walk' i Washington city. Lige idet vi kom til 'The White House' virkede det som om der skulle til at ske noget, da politi og sikkerheds folk afskærmede en stor del af området af, og vi på taget kunne se der blev indsat et par ekstra 'snipers'. Så vi ventede selvfølgelig for at se hvad det første til. Efter at have ventet godt 30 minutter, så tæt på hovedeindgang vi kunne komme, var der ikke sket andet end at en ældre mand tydeligt havde udtrykt hans vrede mod Barack Obama, og afskærmningen blev igen fjernet. 
 
@@ -138,7 +138,7 @@ Herefter gik vi ned mod The Washington Monument, hvor 'Monument walk' starter. R
 
 ![Washinton Monument](/assets/images/capital-city/IMG_1505.JPG)
 
-###4 dag:
+###4. Dag
 
 Da vi nu var blevet helt friske igen oven på vores ingen-mad-situation, tog vi tilbage ind til Washington D.C. centrum for at se de sidst ting på vores liste. Vi startede i 'Air and Space Museum', hvilket viste sig at være heldigt, da det virkeligt er stort. Efter blot 10 minutter, opgave vi at læse alle de informations tavler der hang rundt omkring, med info om de forskellige fly og rakketter der hang ned fra loftet eller kom op gennem gulvet. Vi besluttede os i stedet at nyde det og kigge på de ustyrlige mange maskiner der var at se!! Desuden har de verdens største samling af originale rumdragter gennem tiden, samt et stykke af månen som vi kunne røre. Det ultimative allér fedeste og sjoveste var dog klart deres fly simulator. Her blev vi sat ind i en lille firkantet boks, med to pladser hvor der ud fra var to joysticks, én til at styrer og en til at skyde andre fly. Det blev Mathias der fik lov til at styrer og mig der skød de andre fly ned. Det skal lige siges at boksen lukkede helt tæt og kunne dreje 360 grader!! (selvfølgelig havde vi jo da lige haft HELE 30 sekunders prøve tid på en skærm inden vi satte os ind)
 
@@ -147,7 +147,7 @@ Da vi nu var blevet helt friske igen oven på vores ingen-mad-situation, tog vi 
 Efter en rigtig god snurer tur, begav vi os videre ned i byen for at komme ind på 'The National Archives', hvor de opbevarer de originale dokumenter The Bill of Rights, Declaration of Independence og The Constetution of the U.S. Det var en meget sjov oplevelse at se om man kunne tyde de sidste små blækklatter der var at spotte på papierne, men der måtte desværre ingen billeder tages så det må i undværre. Det var vores sidste dag inde i Washington downtown og vi kørte derfor ud og overnattede på et landevejs motel.
 
 
-###5 dag: 
+###5. Dag 
 
 I dag ville vi videre fra Washington, selv om der stadig er vildt meget tilbage at se, så er det på tide at komme længere ned syd på (til varmen). På vej ud af Washington køre vi igennem en lille virkelig hyggelig fisker by. Vi parkerede bilen og gik lidt rundt og fandt et slagts kunsthus, mindede en smule om konceptet Godsbanen i Aarhus. Stedet var fyldt med massere af små atalier, hvor hver kunstner havde ders eget lille rum. Her udstillede, arbejde og solgte de deres kunst, alt lige fra malerier, fotografier, skulpturer, billedehugger og meget andet. Bl.a. var der en havde kreererede denne:
 
