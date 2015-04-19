@@ -6,9 +6,79 @@ date:   2015-03-21 12:00:00
 latitude: 24.6245746
 longitude: -81.5431872
 image: '/assets/images/the-keys/DSC01122.JPG'
-author: 'Mathias Jakobsen'
-miles: 250
-states: 3
+author: 'Line Dahlgreen'
+miles: 1547
+states: 7
+
+gallery: "the-keys"
+images:
+  - name: DSC01108.JPG
+    text: "Lidt sløret solnedgang, men det var så smukt"
+  - name: DSC01118.JPG
+    text: "Vejen ud til og mellem The Keys"
+  - name: DSC01119.JPG
+    text: "Campingpladsen"
+  - name: DSC01120.JPG
+    text: "Kæmpe Øgle"
+  - name: DSC01121.JPG
+    text: "Kæmpe Øgle"
+  - name: DSC01126.JPG
+    text: "Kæmpe Øgle"
+  - name: DSC01128.JPG
+    text: "Kæmpe Øgle"
+  - name: DSC01153.JPG
+    text: "Campingpladsen"
+  - name: DSC01245.JPG
+    text: "Dyr over alt"
+  - name: DSC01257.JPG
+    text: "Slik overalt"
+  - name: DSC01315.JPG
+    text: "Slik overalt"
+  - name: DSC01303.JPG
+    text: "Hovedegaden"
+  - name: DSC01304.JPG
+    text: "Hovedegaden"
+  - name: DSC01309.JPG
+    text: "Mtn DEW"
+  - name: DSC01310.JPG
+    text: "Mtn DEW"
+  - name: DSC01341.JPG
+    text: "Skilpadde"
+  - name: DSC01349.JPG
+    text: "Vi har det lækkert"
+  - name: DSC01365.JPG
+    text: "Rigtig lækkert endda.."
+  - name: DSC01367.JPG
+    text: "KÆMPE Cookie! Kærlighed ved første blik"
+  - name: DSC01373.JPG
+    text: "Flere dyr"
+  - name: DSC01379.JPG
+    text: "Privat Ø - man kan selvfølgelig leje den"
+  - name: DSC01357.JPG
+    text: "Et lille skib.."
+  - name: DSC01358.JPG
+    text: ".. Med vandland på toppen"
+  - name: DSC01382.JPG
+    text: "Nyt kluns"
+  - name: DSC01391.JPG
+    text: "10 min = en hat af bambus"
 ---
 
-Skribenten er igang :)
+Efter en 7 timer lang køretur fra Miami ned til The Keys, ankom vi endelig til campingpladsen, i bulder mørke! Vi fik dog fundet den (syntes vi selv) absolut bedste teltplads, og teltet poppede heldigvis nærmest op af sig selv så vi kunne hurtigt krype til køjs. 
+
+Da vi vågnede besluttede vi os for, at denne dag skulle gå med ren afslapning, da det var svært tiltrængt for os begge. Så på med solcreme og ned til pool og smide sig på en liggestol. Ikke mindre end 10 minutter senere lød et ordentlig BUUUM !! og lige over på den anden sidde af poolen var der, ned fra en af palmerne, faldet en kæmpe stor ØGLE på 60-70 cm. Vi fandt i løbet af dagen ud af at, det dog var meget normalt at de vandrede omkring på campingpladsen og især ved poolen. Hele dagen blev brugt ved poolen med dejlig afslapning!
+
+![En lækkerbisken](/assets/images/the-keys/DSC01126.JPG)
+
+Da det blev tid til aftensmad, besluttede vi os for at rejse os fra liggestolene og køre ud til Key West for at spise og se det sydligste punkt. Vi fandt her helt tilfældig et lille pizza sted, som skulle vise sig at huse den bedste pizza vi begge hidtil har smagt!! Vi drog herefter videre ned gennem gaderne for at opleve byen. Selvom vi var der en helt almindelig hverdag, var der fuld gang i den og total fest over alt vi gik. Folk var alle glade og i godt humør, en slags sydlandsk stemning. Bland alle barene, restauranterne og skrammelbutikkerne, lå nogle af de flotteste gallerier, og det skulle også vise sig at en af kunstnerne var manden der havde solgt det dyreste fotografi i USA $$$$
+
+Vi havde fået anbefaldet at taget en jet-ski tour rundt om Key West, så vi fandt et sted hvor det var muligt at booke en tur til næste dag! Den eneste ledige tid var kl. 09:00 så den snuppede vi og så hjem på hovedet i seng. 
+
+
+Desværre ringede vækkeuret lidt for sent (vi ved ikke hvorfor) så det var bare med at få teltet pakket sammen og så suse afsted ud til jet-ski tour. Vi måtte dog lige hurtigt stoppe og få noget mad, så der blev bestilt 8 stk. toast, hos nogle meget undrende og lidt forvirrede tjenere, men vi fik maden også videre. Da vi ankom skulle vi så også lige nå at udfylde en "lille" test med 25 spørgsmål, hvor svaret befandt sig i et 4 sider langt dokument, for-og bagside. Men vi klarede den da, og ud på havet vi drog. Trods en smule travlhed og en popup-quiz, var det dog det hele værd! Vi var begge enige om at det nok ikke vil blive vores sidste gang på jetski! Det var simpelthen SÅ sjovt !! (Stor tak til Schultz for anbefalingen)
+
+Efter noget af en oplevelse slentrede vi lidt rundt i byen og nød det gode vejr, før endnu en lang køretur nu tilbage til Orlando, for at se en raket opsendelse fra Kennedy Space Center. 
+
+
+
+{% include gallery.html %}
