@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "NOLA"
+city:   "New Orleans"
+date:   2015-04-13 12:00:00
+latitude: 29.9584426
+longitude: -90.0644107
+image: '/assets/images/nola/DSC02491.JPG'
+author: 'Mathias Jakobsen'
+miles: 4623
+states: 13
+
+gallery: "Oak Alley"
+images:
+  - name: DSC02453.JPG
+    text: "Slave huset"
+  - name: DSC02454.JPG
+    text: "Slave huset"
+  - name: DSC02457.JPG
+    text: "Den hedder Jørgen"
+  - name: DSC02462.JPG
+    text: "Oak Alley"
+  - name: DSC02463.JPG
+    text: "Oak Alley"
+  - name: DSC02466.JPG
+    text: "Oak Alley"
+  - name: DSC02467.JPG
+    text: "Oak Alley"
+  - name: DSC02474.JPG
+    text: "Oak Alley" 
+  - name: DSC02479.JPG
+    text: "Oak Alley"
+  - name: DSC02480.JPG
+    text: "Oak Alley"
+  - name: DSC02481.JPG
+    text: "Oak Alley"
+  - name: DSC02483.JPG
+    text: "Oak Alley"
+  - name: DSC02491.JPG
+    text: "Oak Alley"
+  - name: DSC02497.JPG
+    text: "Oak Alley"    
+---
+
+Efter en meeeeget stille start på en musik-festival tog vi valget, at vi ville tage den lange køretur til New Orelans som er den "rigtige" musik-by i midt-vesten. Da vi nåede frem fandt vi en hyggelig lille campingplads, hvor vi satte vores lille camp op. Vejr-guderne lovede voldsom regn, så teltet blev pakket godt og grundigt ind i en pressening. Efter den lange køretur brugte vi resten af dagen på at slappe af (og vaske tøj) i sillende regnvejr.
+
+![Line der prøvede sig med en bøn til regn-guderne. Det virkede ikke..](/assets/images/nola/DSC02452.JPG)
+
+Prisen for teltpladsen inkluderede en shuttle-bus ned til downtown New Orleans, så kl. 9:00 næste morgen hoppede vi med der. Da vi var i Clarksdale snakkede vi med to danskere som var på en musik-tur, og de fortalte at der var en kæmpe musikfestival i New Orleans i denne her weekend - "French Quarter Festival". Super timing for os, og som en ekstra bonus så var samtlige koncerter på de 23 opsatte scener i byen gratis. Så efter køreturen ned til byen drog vi ind mod French Quarter som efter et par timer var fyldt med mennesker, musikere, gøjlere, spåkoner, kunstnere og en masse andre. Vi vandrede lidt rundt til at starte med, og fandt en plads ved den største scene sammen med 3-4 hundrede pensionister. Ikke overraskende var musikken ikke lige vores kop te, så vi gik videre og stoppede ved de forskellige scener i løbet af dagen. Her hørte vi alt fra blød blues og funky jazz til afrikansk stamme musik og indie folk musik.
+
+Foruden musikken så var French Quarter en super hyggeligt område, med huse og bygninger som vi kender dem fra Frankrig og Spanien - meget farverige og med hyggelige gårdhaver. På vej ned til byen fik vi også en super historie om byen - alt fra byens historie og hvor de kendte bor, til byens genopbyggelse efter stormen Katrina. Vores chauffør var sådan set en super god "tour-guide".
+
+Den næste morgen stod vi meget tidligt op. Vi havde nemlig besluttet os for at tage i kirke. Ikke helt som vi kender det, men i stedet til en baptisisk gudstjeneste. Her fik vi lov at være med til en utrolig livlig gustjenste fyldt med "Amen" og "Halleluja", råben fra pastoren og til tider ord som han mere eller mindre sang ud til meningheden. Som en ekstra bonus fik vi også lov at se hvordan en baptistisk dåb foregår. Foruden at vi følte os lidt malplaceret, da vi var de eneste som ikke var sorte eller latino, så var det en rigtig sjov oplevelse.
+
+Ud fra hvad vi havde hørt om New Orleans histore dagen forinden, tog vi herefter ud for at se en rigtig Louisianna sukkerplantage. New Orelans bestod mere eller mindre kun af sukker- og risplantager starten af byens tid, så det synes vi kunne være sjovt at se. Vi kørte en times tid uden for byen til den kendte plantage "Oak Alley" som idag er ca. 5 km2 stor og som ligger lige ud til Missisipi River. Selve plantagen er bare tomme marker på denne tid af året, men historien om "The Big House", slaverne og grunden var virkelig super spændende og som taget ud af en film. Huset har faktisk været med i en række film, så det er heller ikke helt forkert. Det mest imponerende var dog den næsten halve kilometer lange allé af 300 år gamle træer som danner en sti op til huset.
+
+![Oak Alley](/assets/images/nola/DSC02483.JPG)
+
+Besøget til New Orleans sluttede med en køretur ud til stedet hvor Katrina ramte værst, og så videre vestpå. Næste stop.. Houston, Texas.
+
+{% include gallery.html %}
