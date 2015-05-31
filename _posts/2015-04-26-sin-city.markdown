@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Sin City"
+city:   "Las Vegas"
+date:   2015-04-26 12:30:00
+latitude: 36.147247
+longitude: -115.156031
+image: '/assets/images/sin-city/DSC03910.JPG'
+author: 'Line Dahlgreen'
+miles: 5969
+states: 15
+
+gallery: "Sin City"
+images:
+  - name: DSC03811.JPG
+    text: "Første norgen i Las V. morgenmad på sengen"
+  - name: DSC03826.JPG
+    text: "Casinoet på vores hotel"
+  - name: DSC03830.JPG
+    text: "Bare rolig vi blev ikke gift, selvom vi fik tilbudet"
+  - name: DSC03835.JPG
+    text: "Stratosphere Tårnet"
+  - name: DSC03842.JPG
+    text: "En af de tusindvis af limos"
+  - name: DSC03843.JPG
+    text: "Spille hal"
+  - name: DSC03851.JPG
+    text: "Springvand"
+  - name: "Tømrermænd i Vegas"
+  - name: DSC03859.JPG
+    text: "Tømrermænd i Vegas"
+  - name: DSC03873.JPG
+    text: "Caesars Palace "
+  - name: DSC03904.JPG
+    text: "NYC"
+  - name: DSC03911.JPG
+    text: "The Strip"
+  - name: DSC03970.JPG
+    text: "Jeff.."
+  - name: DSC03971.JPG
+    text: "Dunhaaaaam"
+  - name: DSC03975.JPG
+    text: "Aftensmads udsigten"
+  - name: DSC03978.JPG
+    text: "Aftensmads udsigten"
+  - name: DSC03991.JPG
+    text: "Aftensmads udsigten"
+  - name: DSC04008.JPG
+    text: "Aftensmads udsigten"
+  - name: DSC04031.JPG
+    text: "Paris"
+  - name: DSC04046.JPG
+    text: "Springvand"
+  - name: DSC04084.JPG
+    text: "Hoover Dam"
+  - name: DSC04090.JPG
+    text: "Hoover Dam"
+  - name: DSC04100.JPG
+    text: "Hoover Dam"
+  - name: DSC04106.JPG
+    text: "Hoover Dam"
+  - name: DSC04108.JPG
+    text: "Hoover Dam"
+  - name: DSC04008.JPG
+    text: "Hoover Dam"
+  - name: DSC04110.JPG
+    text: "Hoover Dam"
+  - name: DSC04114.JPG
+    text: "Hoover Dam"
+  - name: DSC04124.JPG
+    text: "Onkel Joachims bil"
+  - name: DSC04127.JPG
+    text: "Landskabet"
+  
+
+---
+
+Så kom vi til Vegas baby !
+
+Inden vi kunne nyde vores lille 'ferie i ferie', skulle vi dog lige skifte bil, da den vi havde trængte til et olie skift, og Alamo mente at det var NEMMERE at vi bare skiftede bil.. Det kan de selvfølgelig sagtens påstå når de ikke ved hvor meget BIIIP der var i vores bil. Men efter godt og vel 3 timer, var det hele flyttet og vi havde fået en ny bil. En splinter ny Chrysler 200 S NØJAGTIG den samme som før, dog er den nye bare grå!! Det gik resten af dagen med.
+
+Vi fik os tjekket ind på det verdenskendte hotel 'Stratosphere Hotel', som huser det højeste punkt i Vegas. Et tårn, hvor der i toppen er Restaurent og Lounge, og på taget er der 3 forskellige 'forlystelser' hvor man på den ene eller anden måde for lov til at dingle ud over tårnet ud over Las Vegas The Strip.
+
+Næste dag gik vi ned gennem The Strip, som er proppet med restaurenter, souvenir butikker, natklubber, tøjbutikker, hoteller og meget meget mere. Til frokost besluttede vi os at prøve en af de mange så kendte buffer der er over alt i Las Vegas. Det var helt klart pengene værd, hvor man her uden lyv, kan finde ALT hvad hjertet begære inden for mad!! Her efter stod den på Planet Hollywood og show med bugetaleren Jeff Dunham (ham med Achmed the Dead Terrorist). Her fik vi grint alt det vi lige havde spist væk og gik der fra med ømme kinder og maver af grin.
+
+Til aftensmad havde vi bestilt bord til oppe i Stratosphere Hotel Tårnet. Restaurenten ligger så langt oppe man kan komme og derudover drejer den 360 grader rundt, så alle får lov til at se udsigten over hele Las Vegas. Hver runde tager 80 minutter og er utrolig flot. 
+
+![Udsigten](/assets/images/sin-city/DSC03978.JPG)
+
+SHOPPING !! 
+- Hele dagen stod på dejlig shopping, i en af Amerikas mange kæmpe store Outlet Byer, som bl.a. huser store kendte mærker som Polo, Ralph Lauren, Calvin Klein, Levis, Dior og 100 vis andre. Det skal dog lige siges at jeg ikke var den eneste der nød det i fuldedrag, da Mathias tilbraget hele 90 minutter FRIVILLIGT i Levis butikken, og det var vel og mærket ikke for min skyld!
+
+Efter shopping kørte vi ud af Las Vegas, ned mod Hoover Dam som vi vil besøge næste dag. 
+
+Hoover Dam er lige så stor og fantastisk som man ser i diverse film og ikke nok med at man kunne gå hele vejen over dæmningen, fik vi også en tur ned i selve dæmningen hvor vi kunne kigge ud gennem en af de 4 ventilations skakter der er i dæmningens nordlige side. Vi så dog desværre ikke nogen Transformers der nede.  
+
+
+
+{% include gallery.html %}
+
+
+
+
