@@ -9,7 +9,94 @@ image: '/assets/images/miami/DSC00364.JPG'
 author: 'Mathias Jakobsen'
 miles: 250
 states: 3
+
+
+gallery: "Miami"
+images:
+  - name: DSC00342.JPG
+    text: "Miami Downtown"
+  - name: DSC00346.JPG
+    text: "Miami Downtown"
+  - name: DSC00348.JPG
+    text: "Såden én vil vi gerne have!"
+  - name: DSC00352.JPG
+    text: "Miami Harbor"
+  - name: DSC00364.JPG
+    text: "Miami Downtown"
+  - name: DSC00369.JPG
+    text: "Miami Harbor"
+  - name: DSC00382.JPG
+    text: "Model Line spiser Pizza"
+  - name: DSC00432.JPG
+    text: "Taaadaaa!"
+  - name: DSC00447.JPG
+    text: "Miami Downtown"
+  - name: DSC00486.JPG
+    text: "Miami"
+  - name: DSC00506.JPG
+    text: "American Airlines Arena"
+  - name: DSC00558.JPG
+    text: "Miami Heats vs. Denver Nuggets"
+  - name: DSC00618.JPG
+    text: "Banan-mand?"
+  - name: DSC00625.JPG
+    text: "Miami Heats vs. Denver Nuggets"
+  - name: DSC00628.JPG
+    text: "Miami Heats vs. Denver Nuggets"
+  - name: DSC00677.JPG
+    text: "Miami Heats vs. Denver Nuggets"
+  - name: DSC00822.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00828.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00829.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00864.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00913.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00926.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00928.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00944.JPG
+    text: "Wynwoods Walls"
+  - name: DSC00972.JPG
+    text: "Little Havana"
+  - name: DSC01000.JPG
+    text: "Little Havana"
+  - name: DSC01081.JPG
+    text: "Little Havana"
 ---
 
-Coming soon ..
+Så ramte vi Miami! Vi havde begge to glædet os til at komme hertil, både for at se byen men også for varmen. Vi boede hos Raquel som lejede et værelse ud igennem AirBnB. Det var super fint, og hun boede i et aflukket boligkvarter med fælles pool og den fik vi endda lov til at bruge, da beboerne tilsyneladende ikke syntes meget om den. 
 
+Den første dag vi havde i byen, ville vi bruge på bare at gå lidt rundt og kigge. Vi havde begge to en forventning om hvordan Miami ville være, men desværre blev vi lidt skuffet. Downtown var bare højhus efter højhus med kontorer. Vi havde håbet på der måske ville være nogle butiksgader, åbne områder eller noget liv nede ved havnen, men det fandt vi desværre ikke meget af. I stedet var byen fyldt med dyre biler og folk i jakkesæt. Til gengæld fik vi en rigtig god pizza, fra den lokale 7-Eleven!
+
+![Line spiser Pizza som en model](/assets/images/miami/DSC00382.JPG)
+
+## LET'S GO HEAT!
+
+Eftersom Miami ikke var så meget en touristby, så tænkte vi at vi hellere måtte finde noget andet spændende at lave i byen. Der er ingen af os der er specielt velinformeret inden for basketball verdenen, men vi ved dog at Miami Heats skulle være temmelig gode i NBL - så dem skulle vi selvfølgelig ind og se spille. Vi fandt billetter til 2 sæder lige bag ved "hvor fa'en er bolden"-rækken, heeeeeelt øverst oppe i American Airlines Arena, som er deres hjemmebane. Salen var KÆMPE stor og fyldt med fans i "Wade" trøjer og alverdens rødt og hvidt habengut. Da vi havde fået købt popcorn og fundet vores pladser gik der ikke mere end 10 min. før den helt store indløbs seance gik igang. Ultra højt musik, præsentation, jubel og ild-kanoner for hver enkelt spiller - intet mindre kunne gøre det!
+
+![Let's Go Heats](/assets/images/miami/DSC00558.JPG)
+
+Kampen var mod Denver Nuggets, og forløb egentlig temmelig spændende, da Nuggets førte de første 2 perioder. Personligt syntes jeg at basketball er vildt spændende i forhold til f.eks. fodbold, da der hele tiden sker noget - og vi fik også lov til at se nogle finter og vilde oplæg af spillerne. Dog endte kampen med at Heat's vandt med ca. 20 point, så puplikum var glade og tilfredse - inklusiv Heat's tilsyneladende mest trofast 6 årige fan som sadlige bag os og som måtte give op 3/4 igennem kampen og lige tage en lur ved mor.
+
+
+## Miami Beach
+
+Efter en lang dag med traven rundt i Miami og basketball-kamp og aftenen, så besluttede vi os for at tage en afslapningsdag, dagen efter. Der var selvfølgelig kun ét rigtigt sted vi kunne gøre det, og det var Miami Beach. Vi startede dagen med, at køre op til nord Miami Beach og fik noget at spise. Efter et lækkert måltid på The Original Pancake House kørte vi hele vejen ned gennem Miami Beach, ned til Nikki Beach. På vejen var der steder, hvor der ikke var andet en 50-60 meter imellem vandet på begge sider. Der hvor der var mere, lå der enten et hotel eller en eller anden fancy yacht klub. Da vi kom ned mod Nikki Beach og skulle finde parkering var det et rent helvede. De fleste steder tog de 350 kr. for parkering resten af dagen. Vi fandt heldigvis en lille bitte parkeringsplads, hvor de kun tog 200 kr. - til gengæld var vores bil så også mast fuldstændig inde, men det gik.
+
+Da vi kom ned til stranden var der prop fyldt med mennesker. Vi havde - genialt nok - timet vores besøg i Miami så alle de unge studerende i USA som var på "Spring Break" også var på stranden. Det var ikke alt for slemt, så vi fandt en plads i sandet og havde en fantastisk lækker dag! Jeg afsluttede dagen med et toiletbesøg, og fik mig noget af en overraskelse da der inde på mændenes toilet lige var en kommodoveran på besøg - i snor vel at mærke.
+
+
+## Wynwoods Walls
+
+Vi regnede sådan set ikke med at blive i Miami efter vores dag på stranden, men dagen gik hurtigt og vi endte alligevel med at tage en sidste overnatning. Morgen efter kørte vi ned til et meget specielt nabolag kaldet ´Wynwoods Walls´. Her har kunstnere og street-artist malet væge, facader og bygninger i et helt nabolag. Det er ikke lukket af på nogen måde, og der er butikker og boliger - det er bare malet på det hele. Det var utrolig flot, at gå rundt og kigge dernede, da stort set alle værkerne var vild flot udført. 
+
+![Wynwoods Walls](/assets/images/miami/DSC00864.JPG)
+
+Wyndwoods Walls havde også et centrum, hvor der var en officiel udstilling og her var nogle af de flotteste vægge. Vi brugte et par timer på at gå rundt og kigge og derefter ville vi køre hen til en område kaldet Little Havana. Det skulle være meget specielt og minde lige om syden i Europa, men desværre så var vi der på en søndag så alt havde lukket. Til vores skuffelse så vi derfor ikke så meget, og drog derfor videre mod næste stop.. The Keys.
+
+{% include gallery.html %}
